@@ -24,8 +24,3 @@ I'm a Front-End Web Developer 💻!
   
 </div>
     
-<div align="center"> 
-  
-  ![Snake animation](https://github.com/Thais7/thais7/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
