@@ -8,7 +8,6 @@ I'm a Front-End Web Developer 💻!
 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/thais-isidoro/" target="_blank" rel="noreferrer">LinkedIn</a> ♥️
-<a href="https://www.instagram.com/tsi.dev/" target="_blank" rel="noreferrer">Instagram</a>
 </br>
 
 <div align="center">
